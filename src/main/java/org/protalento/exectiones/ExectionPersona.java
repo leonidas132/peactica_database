@@ -1,5 +1,5 @@
 package org.protalento.exectiones;
-
+//js
 import org.protalento.interfaces.Constante;
 
 import java.util.Arrays;

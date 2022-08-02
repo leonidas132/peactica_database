@@ -1,5 +1,5 @@
 package org.protalento.entidades;
-
+//js
 import java.time.LocalDate;
 
 public class Administrativo extends Empleado {

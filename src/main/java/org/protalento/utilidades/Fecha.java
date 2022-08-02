@@ -6,7 +6,7 @@ import java.time.format.DateTimeFormatter;
 
 public final class Fecha {
 
-
+//fechas
     public static final String PATRON_FECHA = "yyyy-MM-dd";
     public static final String PATRON_FECHA_HORA = "yyyy-MM-dd HH:mm:ss";
 

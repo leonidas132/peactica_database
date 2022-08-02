@@ -1,5 +1,5 @@
 package org.protalento.implementaciones;
-
+//js
 
 import org.protalento.entidades.Persona;
 import org.protalento.entidades.Profesor;

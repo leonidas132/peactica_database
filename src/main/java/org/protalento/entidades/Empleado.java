@@ -1,7 +1,7 @@
 package org.protalento.entidades;
 
 import java.time.LocalDate;
-
+//js
 public abstract class Empleado extends Persona {
 
 

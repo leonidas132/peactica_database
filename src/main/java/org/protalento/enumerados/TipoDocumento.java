@@ -1,5 +1,5 @@
 package org.protalento.enumerados;
-
+// ss
 public enum TipoDocumento {
     DNI("Documento Nacional de Identidad"), PAS("pasaporte"),TI("targeta de identidad"),CC("cedula de cuidadania");
 

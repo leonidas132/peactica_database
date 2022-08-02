@@ -7,7 +7,7 @@ import java.sql.DriverManager;
 import java.sql.SQLException;
 
 public class Conexion {
-
+//data sources
     public  Connection getConexion (){
         Connection connection = null;
         String db_driver = "org.mariadb.jdbc.Driver";

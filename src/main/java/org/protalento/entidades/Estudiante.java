@@ -1,4 +1,5 @@
 package org.protalento.entidades;
+//js
 
 import java.time.LocalDate;
 
